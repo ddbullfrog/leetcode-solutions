@@ -28,6 +28,7 @@ Stop thinking start contributing to leetcode solution
 - [SuperUglyNumber](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/SuperUglyNumber.java)
 - [MaximumProductOfWordLengths](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/MaximumProductOfWordLengths.java)
 - [FindPeakElement](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/FindPeakElement.java)
+- [WordBreak](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/WordBreak.java)
 
 ### Hard
 
