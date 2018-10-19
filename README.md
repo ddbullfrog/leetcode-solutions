@@ -28,6 +28,8 @@ Stop thinking start contributing to leetcode solution
 - [SuperUglyNumber](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/SuperUglyNumber.java)
 - [MaximumProductOfWordLengths](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/MaximumProductOfWordLengths.java)
 - [FindPeakElement](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/FindPeakElement.java)
+- [SummaryRanges](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/SummaryRanges.java)
+- [MinimumHeightTree](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/MinimumHeightTree.java)
 
 ### Hard
 
